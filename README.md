@@ -1,1 +1,1 @@
-# algorithms_part_i_-_princenton
+# algorithms*part_i*-\_princeton
